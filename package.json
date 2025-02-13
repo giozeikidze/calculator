@@ -1,5 +1,5 @@
 {
-  "name": "@giorgi/calculator",
+  "name": "@zeikidzeg/calculator",
   "version": "1.0.0",
   "description": "A simple command-line calculator that performs basic arithmetic operations.",
   "main": "calculator.js",
@@ -27,7 +27,7 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "author": "Giorgi",
+  "author": "zeikidzeg",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/giozeikidze/calculator.git"
